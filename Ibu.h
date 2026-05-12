@@ -6,6 +6,7 @@ using namespace std;
 #define IBU_H
 #include <vector>
 
+
 class ibu {
 public:
     string nama;
