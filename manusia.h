@@ -3,6 +3,7 @@
 
 #include <iostream>
 #include <string>
+#include "jantung.h"
 using namespace std;
 
 class manusia {
